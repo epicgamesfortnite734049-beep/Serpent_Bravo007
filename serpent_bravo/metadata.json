@@ -1,0 +1,5 @@
+{
+  "name": "Serpent_Bravo",
+  "description": "Serpent_Bravo is a specialized chatbot that provides concise and simple Python code solutions based on user prompts, leveraging the Gemini API for code generation.",
+  "requestFramePermissions": []
+}
